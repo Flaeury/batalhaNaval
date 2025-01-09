@@ -1,4 +1,5 @@
 # Batalha Naval em Java
+Alunos: Raiane Gabriele Brito de Oliveira e Thiago Mendes de Castro Correia.
 
 Este arquivo tem como propósito explicar as funcionalidades criadas para simular um jogo de batalha naval via console.
 
